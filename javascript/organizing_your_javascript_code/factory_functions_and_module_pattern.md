@@ -4,7 +4,7 @@ We have discussed object constructors in the previous lesson. However, they are 
 
 ### Lesson overview
 
-This section contains a general overview of topics that you will learn in this lesson.
+In This section, you will learn a general overview of topics that you will learn in this lesson.
 
 - Describe the scope of a variable.
 - Explore what closures are.
